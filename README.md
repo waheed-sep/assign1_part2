@@ -2,7 +2,7 @@
 Part 2: Briefly explain the purpose of below commands.
 
 `docker ps` command to list all running containers.
-![docker ps](/assets/run_ps.png "docker ps")  
+![docker ps](./assets/run_ps.png "docker ps")  
 `docker stop` command to stop a running container.
 ![docker stop](/assets/stop.png)
 `docker rm` command to remove a stopped container.  
