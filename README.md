@@ -31,10 +31,10 @@ Part 2: Briefly explain the purpose of below commands.
 ![docker unpause](/assets/pause_unpause.png)  
 `docker rename` command to rename a container.  
 ![docker rename](/assets/rename.png)  
-`docker wait` command to wait for a container to exit and then display its exit 
-![docker wait](/assets/wait.png)  code.  
+`docker wait` command to wait for a container to exit and then display its exit code.  
+![docker wait](/assets/wait.png)    
 `docker port` command to display the public-facing port that a container is listening on.
-![docker port](/assets/port.pngg)    
+![docker port](/assets/port.png)    
 `docker update` command to update a container`s resource limits.  
 
 `docker restart` command to restart a running container.  
